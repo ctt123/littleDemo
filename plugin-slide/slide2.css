@@ -1,0 +1,27 @@
+#slide0{
+    /*height: 200px;*/
+    overflow: hidden;
+    /*border: 1px solid red;*/
+
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+ul{
+    /*float: left;*/
+    /*width: 5000px;*/
+    height: 200px;
+    /*border: 1px solid green;*/
+
+}
+li{
+    list-style: none;
+    float:left;
+}
+/*img{*/
+     /*width: 200px;*/
+     /*height: 200px;*/
+ /*}*/
